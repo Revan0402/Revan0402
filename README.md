@@ -18,7 +18,7 @@
 
 <a href="https://instagram.com/revanaliizade" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="revanaliizade" height="30" width="40" /></a>
 <a href="https://twitter.com/revanallizade?t=V-Cl4QEaT2G020nSTYoj7w&s=09" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/revanallizade?t=V-Cl4QEaT2G020nSTYoj7w&s=09" height="30" width="40" /></a>
-<a href="https://discord.gg/Revan#5718" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Revan#5718" height="30" width="40" /></a>
+<a href="https://discord.gg/Revan#5718" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Revan#5718" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
