@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HTML5,CSS3,Bootstrap,JavaScript,PHP**
 
-- 📫 How to reach me **ralizade195@gmail.cm**
+- 📫 How to reach me **ralizade195@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
