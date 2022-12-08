@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Revan0402](https://github.com/Revan0402)
 
-- 💬 Ask me about **HTML5,CSS3,Bootstrap,JavaScript,PHP**
+- 💬 Ask me about **HTML5,CSS3,Bootstrap,JavaScript,PHP\**
 
 - 📫 How to reach me **ralizade195@gmail.com**
 
