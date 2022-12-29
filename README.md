@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Revan Alizade.</h1>
-<h3 align="center">I am a Web Developer from AzerbaijanI am 17 years old.</h3>
+<h3 align="center">I am a Web Developer from Azerbaijan.I am 17 years old.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=revan0402&label=Profile%20views&color=0e75b6&style=flat" alt="revan0402" /> </p>
 
